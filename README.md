@@ -1,1 +1,1 @@
-# -Django-AI-Project-Medical-Diagnosis
+# Django-AI-Project-Medical-Diagnosis
